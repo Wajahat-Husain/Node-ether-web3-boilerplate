@@ -7,13 +7,6 @@ Before you start, ensure that you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/) v16.17.0 or later
 
-### Prerequisites
-
-Before you start, ensure that you have the following installed on your machine:
-
-- [Node.js](https://nodejs.org/) v16.17.0 or later
-- [npm](https://www.npmjs.com/) v9.4.1 or later
-
 ### Installation
 
 1. Clone the repository
